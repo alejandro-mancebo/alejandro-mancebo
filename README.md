@@ -40,7 +40,7 @@ Interested in the entire front-end, relational and non-relational database spect
 
 ![icons8-c-sharp-logo-48](https://github.com/alejandro-mancebo/alejandro-mancebo/assets/55420449/4f5d6f15-7e1f-4a66-b459-981ff9e7b978) ![icons8-java-48](https://github.com/alejandro-mancebo/alejandro-mancebo/assets/55420449/e380bd8e-6b15-4178-a4c2-99c6ad00a23f)
 
-### Vereion Control
+### Version Control
 
 ![icons8-git-48](https://github.com/alejandro-mancebo/alejandro-mancebo/assets/55420449/1a034925-9050-48e1-bc7d-2817229062fc) ![icons8-github-48](https://github.com/alejandro-mancebo/alejandro-mancebo/assets/55420449/00f2d166-953a-4d31-b9fb-008eb416774b)
 
