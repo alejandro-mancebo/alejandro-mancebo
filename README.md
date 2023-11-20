@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+## [About Me](https://github.com/alejandro-mancebo/portfolio)
 
 I am a Computer Programming Analyst located in Canada who specializes in creating and maintaining dynamic websites and databases for individuals, start-ups and small businesses.
 
